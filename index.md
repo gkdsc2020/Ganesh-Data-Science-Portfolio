@@ -13,13 +13,14 @@ email: ganeshbkale@gmail.com
 
 # Professional Summary:
 
-## Project 1: News Categorization
+## [Project 1: News Categorization][https://github.com/gkdsc2020/dsc550_data_mining]
 
-##### Background: For long time, this process of categorization news was done manually by people and used to allot news to respective section(category). With digitalization of news paper, the news gets updated every moment and allocating to them to appropriate category can be cumbersome task.
+##### Background: 
+For long time, this process of categorization news was done manually by people and used to allot news to respective section(category). With digitalization of news paper, the news gets updated every moment and allocating to them to appropriate category can be cumbersome task.
 
-How this problem was solved: To avoid manual news categorization, with help of latest technology, Natural Language Processing and Machine Leanring, this problem is tackled to classify and predict which category a piece of news will fall into based on the news headline and short description.
+**How this problem was solved**: To avoid manual news categorization, with help of latest technology, Natural Language Processing and Machine Leanring, this problem is tackled to classify and predict which category a piece of news will fall into based on the news headline and short description.
 
-How this model would help news editors and customers?
+**How this model would help news editors and customers?**
 
 A machine learning model is built using supervised machine learning techniques, that learns from existing news headlines and short description and predict the news category appropriately. With the help of this model the news categorization can be automated and it would save manual work and help users to read the news of their interest in right section.
 
