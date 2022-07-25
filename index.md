@@ -13,7 +13,7 @@ email: ganeshbkale@gmail.com
 
 # Professional Summary:
 
-## [Project 1: News Categorization][https://github.com/gkdsc2020/dsc550_data_mining]
+## [Project 1: News Categorization](https://github.com/gkdsc2020/dsc550_data_mining):
 
 ##### Background: 
 
