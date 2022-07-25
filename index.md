@@ -16,6 +16,7 @@ email: ganeshbkale@gmail.com
 ## [Project 1: News Categorization][https://github.com/gkdsc2020/dsc550_data_mining]
 
 ##### Background: 
+
 For long time, this process of categorization news was done manually by people and used to allot news to respective section(category). With digitalization of news paper, the news gets updated every moment and allocating to them to appropriate category can be cumbersome task.
 
 **How this problem was solved**: To avoid manual news categorization, with help of latest technology, Natural Language Processing and Machine Leanring, this problem is tackled to classify and predict which category a piece of news will fall into based on the news headline and short description.
