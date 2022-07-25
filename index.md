@@ -1,4 +1,4 @@
-## About:
+# About:
 
 I am senior data scientist with over 10+ years of experience using predictive modeling, data processing 
 and data mining in various fields. I worked as Data engineer, data analyst and data scientist in banking and financial service organizations.
@@ -7,7 +7,7 @@ I have experience in managing high-performing teams in fase-paced organizations.
  
 I have completed my masters in mathematics from Pune University India and masters in data science from Bellevue university NE USA. 
 
-## Contact:
+# Contact:
 
 email: ganeshbkale@gmail.com
 
