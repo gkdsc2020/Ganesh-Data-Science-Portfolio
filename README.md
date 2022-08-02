@@ -2,7 +2,7 @@
 
 ## About:
 
-I am senior data scientist with over 10+ years of experience using predictive modeling, data processing 
+I am senior data scientist with over 14+ years of experience using predictive modeling, data processing 
 and data mining in various fields. I worked as Data engineer, data analyst and data scientist in banking and financial service organizations.
 My major experience is in building natural language processing solutions for banking and financial products with the help of machine learning and deep learning techniques.
 
