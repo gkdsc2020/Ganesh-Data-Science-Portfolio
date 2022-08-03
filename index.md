@@ -1,4 +1,5 @@
-# About:
+# Ganesh Kale
+Python | Data Scienc | ML | NLP | Deep Learning
 
 I am senior data scientist with over 14+ years of experience using predictive modeling, data processing 
 and data mining in various fields. I worked as Data engineer, data analyst and data scientist in banking and financial service organizations.
