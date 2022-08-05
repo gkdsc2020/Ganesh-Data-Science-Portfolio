@@ -44,7 +44,7 @@ This model provided highes accuracy score among all of the three and is finalize
 
 ![image](https://user-images.githubusercontent.com/70597635/180676600-2740d5f9-e934-446b-82f8-4f2bbc8fe9ef.png)
 
-**------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## [Project 2: Walmart Sales Forecasting](https://github.com/gkdsc2020/dsc630_predictive_analytics/blob/main/dsc630_final_project.ipynb):
 
@@ -85,7 +85,8 @@ Comparing the accuracy of different models, it turns out that XGBoost regressor 
 
 ![image](https://user-images.githubusercontent.com/70597635/182530545-e78b614a-074e-40f7-845f-958f03c5d254.png)
 
-**------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ## [Project 3: Next Word Prediction-Language Model](https://github.com/gkdsc2020/dsc680-applied-ds/blob/main/dsc680_project1_GaneshKale.pdf):
 
@@ -114,7 +115,7 @@ The sequential neural network model in trained using LSTM(Long-Short Term memory
 The model is predicting the next words based on given input sample text, the generate next word or series of words can be handled through argument as configuration and changed based on model performance.
 The next word prediction language model is generating the relevant word and can be used in production to help agent type response fast.
 
-**------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## [Project 4: Transaction Categorization](https://github.com/gkdsc2020/dsc680-applied-ds/blob/main/project2_transaction_categorization_GaneshKale.ipynb):
 
@@ -169,5 +170,4 @@ Based on this we can recommend XGBoost Classifier model as final model for our p
 
 ![image](https://user-images.githubusercontent.com/70597635/183001165-15214d9e-800b-4126-bb38-2f032cc41316.png)
 
-**------------------------------------------------------------------------------------------------------------------------------------------------------
 
