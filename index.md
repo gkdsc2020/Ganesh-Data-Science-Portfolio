@@ -149,7 +149,7 @@ Below are the list of classifications algorithms are used -
 - Support Vector Machine
 - XGBoost Classifier
 
-**Model Summary:
+**Model Summary**:
 
 Model       | Name	Accuracy Score
 
