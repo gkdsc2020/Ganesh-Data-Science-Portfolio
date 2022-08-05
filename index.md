@@ -44,7 +44,7 @@ This model provided highes accuracy score among all of the three and is finalize
 
 ![image](https://user-images.githubusercontent.com/70597635/180676600-2740d5f9-e934-446b-82f8-4f2bbc8fe9ef.png)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Project 2: Walmart Sales Forecasting](https://github.com/gkdsc2020/dsc630_predictive_analytics/blob/main/dsc630_final_project.ipynb):
 
@@ -56,7 +56,9 @@ Business Sales Executives often find themselves scrambling for answers when it c
 #### Problem Statement:
 
 The goal of this analysis is to predict future sales for the Walmart stores based on the varying features and events.
+
 •	Build the Machine Learning model that would learn from past records, events and predict the accurate outcomes.
+
 •	Predict the Sales forecast for Store and its departments on specific week of the year considering if it is before holiday or after holiday.
 
 **How this model would help?**
@@ -82,4 +84,7 @@ Comparing the accuracy of different models, it turns out that XGBoost regressor 
 #### Feature Correlations:
 
 ![image](https://user-images.githubusercontent.com/70597635/182530545-e78b614a-074e-40f7-845f-958f03c5d254.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
