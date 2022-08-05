@@ -151,8 +151,11 @@ Below are the list of classifications algorithms are used -
 **Model Summary:
 
 Model       | Name	Accuracy Score
+
 XGBoost	    | 69%
+
 SVM	        | 69%
+
 Naïve Bayes | 66%
 
 
