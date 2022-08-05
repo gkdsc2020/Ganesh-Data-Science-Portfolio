@@ -44,7 +44,7 @@ This model provided highes accuracy score among all of the three and is finalize
 
 ![image](https://user-images.githubusercontent.com/70597635/180676600-2740d5f9-e934-446b-82f8-4f2bbc8fe9ef.png)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+**------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Project 2: Walmart Sales Forecasting](https://github.com/gkdsc2020/dsc630_predictive_analytics/blob/main/dsc630_final_project.ipynb):
 
@@ -85,6 +85,86 @@ Comparing the accuracy of different models, it turns out that XGBoost regressor 
 
 ![image](https://user-images.githubusercontent.com/70597635/182530545-e78b614a-074e-40f7-845f-958f03c5d254.png)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+**------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## [Project 3: Next Word Prediction-Language Model](https://github.com/gkdsc2020/dsc680-applied-ds/blob/main/dsc680_project1_GaneshKale.pdf):
+
+##### Background: 
+
+Language modeling involves predicting the next word in a sequence given the sequence of words already present. A language model is a key element in many natural language processing models such resolving customers inquiries through chat or answering the questions through emails.
+In customer Service business especially in messaging or Chats or email supports, customer representative often struggle to response fast if they have limited knowledge of business area wherein the inquiry is about and need to respond fast for better service and improved customer satisfaction.
+
+
+#### Problem Statement:
+
+Business Stakeholder wanted to build model that would learn from previously provided chat or email resolution history and suggest the next word when representative start providing resolution to the customers inquiry.
+
+• Build the model that would predict the next word based on previous context.
+
+##### Modeling: 
+
+The model is built using Recurrent neural networks (RNN) and TensorFlow and Keras.
+
+Text data is cleaned and transformed in vector form using sklearns vecorizer. 
+
+The sequential neural network model in trained using LSTM(Long-Short Term memory) network. It is a variety of recurrent neural networks (RNNs) that are capable of learning long-term dependencies, especially in sequence prediction problems.
+
+##### Conclusion: 
+
+The model is predicting the next words based on given input sample text, the generate next word or series of words can be handled through argument as configuration and changed based on model performance.
+The next word prediction language model is generating the relevant word and can be used in production to help agent type response fast.
+
+**------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## [Project 4: Transaction Categorization](https://github.com/gkdsc2020/dsc680-applied-ds/blob/main/project2_transaction_categorization_GaneshKale.ipynb):
+
+##### Background: 
+
+Transaction categorization is the ability to recognize the purpose of a transaction based on its description. For long, this process was done manually but now technology can do it efficiently.
+This project is focused on Natural Language Processing using the power of Machine Learning to predict which category a transaction will fall into, given the description of the transaction.
+
+#### Problem Statement:
+
+Goal - Build a model to predict transaction categories using the 10 (ten) distinct categories that a transaction may fall into. The categories are as follows:
+
+1. Communication Services
+2. Education
+3. Entertainment
+4. Finance
+5. Health and Community Service
+6. Property and Business Services
+7. Retail Trade
+8. Services to Transport
+9. Trade, Professional and Personal Services
+10. Travel
+
+##### Modeling: 
+
+The model is built using NLP and Classification Machine Learnings.
+The text data is converted into vectors using sklearns countvecotrizer and then SMOTE technique is used to baance the target classes.
+Below are the list of classifications algorithms are used - 
+
+- Naïve Bayes Classifier
+- Support Vector Machine
+- XGBoost Classifier
+
+**Model Summary:
+
+Model       | Name	Accuracy Score
+XGBoost	    | 69%
+SVM	        | 69%
+Naïve Bayes | 66%
+
+
+##### Conclusion: 
+
+After building and evaluating multiple classification models, we can see that the XGBoost has better accuracy which is 69% and since it uses gradient boosting it provides better result than other classifier models.
+
+Based on this we can recommend XGBoost Classifier model as final model for our project to predict the transactions categories.
+
+#### Transaction Category Distribution:
+
+![image](https://user-images.githubusercontent.com/70597635/183001165-15214d9e-800b-4126-bb38-2f032cc41316.png)
+
+**------------------------------------------------------------------------------------------------------------------------------------------------------
 
