@@ -18,6 +18,7 @@ email: ganeshbkale@gmail.com
 
 <details>
  <summary Background </summary>
+ 
  ##### Background: 
 
  For long time, this process of categorization news was done manually by people and used to allot news to respective section(category). With               digitalization of news paper, the news gets updated every moment and allocating to them to appropriate category can be cumbersome task.
@@ -35,6 +36,7 @@ email: ganeshbkale@gmail.com
 
 <details>
  <summary Modeling </summary>
+ 
  ##### Modeling: 
 
   Following machine learning classification algorithms were used to train and evaluate model.
@@ -48,6 +50,7 @@ email: ganeshbkale@gmail.com
  
  <details>
   <summary Conclusion </summary>
+ 
   ##### Conclusion: 
 
   XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning     algorithms under the Gradient Boosting framework.
