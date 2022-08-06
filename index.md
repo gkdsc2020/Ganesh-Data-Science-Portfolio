@@ -17,7 +17,7 @@ email: ganeshbkale@gmail.com
 ## [Project 1: News Categorization](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
 
 <details>
- <summary>Click to see more!</summary>
+ <summary Background </summary>
 
   ##### Background: 
 
@@ -32,6 +32,10 @@ email: ganeshbkale@gmail.com
   A machine learning model is built using supervised machine learning techniques, that learns from existing news headlines and short description and       predict the news category appropriately. With the help of this model the news categorization can be automated and it would save manual work and help     users to read the news of their interest in right section.
  
  
+</details>
+
+<details>
+ <summary Modeling </summary>
 
   ##### Modeling: 
 
@@ -42,19 +46,22 @@ email: ganeshbkale@gmail.com
    - Logistic Regression
    - XGBoost Classifier
 
+ </details>
+ 
+ <details>
+  <summary Conclusion </summary>
+ 
   ##### Conclusion: 
 
   XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning     algorithms under the Gradient Boosting framework.
   This model provided highes accuracy score among all of the three and is finalized as baseline model for this project.
  
- 
+ </details>
 
-  #### News Categorization Distribution:
+#### News Categorization Distribution:
 
-   ![image](https://user-images.githubusercontent.com/70597635/180676600-2740d5f9-e934-446b-82f8-4f2bbc8fe9ef.png)
+![image](https://user-images.githubusercontent.com/70597635/180676600-2740d5f9-e934-446b-82f8-4f2bbc8fe9ef.png)
 
- 
-</details>
 
 
 ## [Project 2: Walmart Sales Forecasting](https://github.com/gkdsc2020/dsc630_predictive_analytics/blob/main/dsc630_final_project.ipynb):
@@ -79,11 +86,12 @@ The baselined model which produced best accuracy score can be used to predict th
 ##### Modeling: 
 
 These ML algorithms are used to train the model and evaluated using Weighted mean absolute error. The model with lowest RMSE score and best accuracy score is baselined. Following are the list of ML algorithms are used to train the model – 
-•	KNN Regression	
-•	Decision Tree
-•	Random Forest
-•	Gradient Boosting Machine (XGBoost Regressor)
-•	ARIMA - Auto Regressive Integrated Moving Average
+
+- KNN Regression	
+- Decision Tree
+- Random Forest
+- Gradient Boosting Machine (XGBoost Regressor)
+- ARIMA - Auto Regressive Integrated Moving Average
 
 #### Result:
 <img width="543" alt="image" src="https://user-images.githubusercontent.com/70597635/182530011-c271a212-fc24-4d65-a9a6-3eef983ea973.png">
