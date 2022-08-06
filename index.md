@@ -176,3 +176,147 @@ Based on this we can recommend XGBoost Classifier model as final model for our p
 ![image](https://user-images.githubusercontent.com/70597635/183001165-15214d9e-800b-4126-bb38-2f032cc41316.png)
 
 
+## [Project 5: Credit Card Customers - Predict Churning](https://github.com/gkdsc2020/dsc530edapython/blob/main/dsc530_term_project.ipynb):
+
+##### Background: 
+
+The objective of this project was to perform the different statistical techniques as part of exploratory data analysis using python as programming language. A manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction.
+
+
+#### Problem Statement:
+
+The objective of this data analysis project is to better understand the attributes that are making impact on customer's decision to leave the credit card company and after finalizing the attributes another goal is to identify such customers who are going to leave.
+
+- Identify the key features/factors that driving customer to drop off.
+- Identify the customers having high likelihood of attrition
+
+**How to tackle Business Problem**
+
+In order to tackle the business problem, following steps are performed:
+- Exploratory Data Analysis - Explore the different features with help of visualization and statistical summary. This activity will provide more           insights about the it and we can choose the feature that could be influencing customers to drop off.
+- Feature correlations - This activity will help us identify features which have more impact on customers decision.
+- Modeling - Selecting right algorithm for model and evaluating the model result.
+
+##### Exploratory Data Analysis:
+As part of exploratory data analysis, different statistical techniques and are used to explore the data and different charts are used for visualization.
+
+- Indentify missing values and Visualize missing values in the features
+- Distribution of Numerical Variables - to see distribution and detect Outliers
+- Outliers Detections in fatures using Box plots
+- Display Unique and Duplicate values in feayures
+- Data Transformations
+- Compare CDFs
+- Muliti-colinearity of Features
+
+
+##### Modeling: 
+
+The focus of this project more on Exploratory Data Analysis, so only Logistic Regression algorithm is used to predict the churn in customers.
+
+
+##### Conclusion: 
+
+The above stated business problems were tackled using exploratory data analysis and regression analysis. As part of exploratory data analysis, different statistical techniques and are used to explore the data and different charts are used for visualization.
+The data validated for any missing or duplicate values, the data distribution is checked for any outliers and removed them appropriately. Different distributions are checked for few key variables such as PMF, CDF, analytical distribution such as logarithmic distribution, checked for the correlation, covariance between the variables, plotted scatter charts to see correlation visually. This exploratory analysis helped to identify features that are impacting customers decision to leave or stay with bank.
+Finally, Regression analysis was performed using the key features to build the model to predict the customers who will drop-off and who will not.
+This exploratory analysis helped understand the different features, their relationship and impact and regression analysis helped to build prediction model more accurately. 
+Overall, with this analysis we were able to solve the business problem that was stated to identify features impacting customer to leave or stay and predicting churn.
+
+
+#### CDFs of attrited customer Vs not attrited customers for Total Trans Counts:
+![image](https://user-images.githubusercontent.com/70597635/183262722-baa55f61-f130-4aae-a5db-88d4d341e5b5.png)
+
+
+## [Project 6: Data Prep and EDA for Housing Price Prediction](https://github.com/gkdsc2020/dsc540_data_preperation/blob/main/Final_Project.ipynb):
+
+##### Background: 
+
+House Prices in USA are booming, and house prices will continue to race ahead, at nearly twice the pace predicted before this year. This is what we hear or read when talk about housing market in USA.
+To make data ready by collecting from different sources and cleaning, transforming, and merging all these data to make it final dataset in the ready format for machine learning algorithms so predicting house price model can be developed by training and validating on housing market dataset. To build predicting house price model, we should consider different factors such as house information, and facilities available in neighborhood such school, hospitals etc. 
+
+#### Data Sources:
+
+As part of this project, Austin, Texas housing market data is collected from 3 difference sources such as csv file with house related information, json file for hospital in neighborhood and tabular data for school information from website.
+
+- CSV File: Austin TX area house information, such as address, year built, sale price, No. of bedroom, bathrooms, lot area etc.
+- Tabular Data: The neighborhood school information will be pulled from below websites, since the website has school information such as address, type     of school, student per teacher ratio, ratings and percentile, staar awards ratings etc. but we dont need grade level rating so we are going to remove   them and clean data and at last will be joined with main data set based in zipcode value.
+- Json File: The neighborhood public health locations information is pulled from data.gov using API. The data is in json format, and it will have public   health locations information such as facility name, address, hours of operation, website etc. 
+
+
+##### Conclusion: 
+
+As part of this project, I have implemented all the data prep and EDA techniques to make final dataset in ready format so that it will be passed to ML algorithms to make house price prediction model. There are few features kept in the data set such as urls, owner names, address for information purpose and can be ignored before feeding to ML algorithms.
+
+
+#### Mulit-colinearity of Features:
+
+![image](https://user-images.githubusercontent.com/70597635/183263251-d625eeef-3701-495c-b70f-898b66d31ce8.png)
+
+
+## [Project 7: Data Viz](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
+
+##### Background: 
+
+
+#### Problem Statement:
+
+
+##### Modeling: 
+
+
+##### Conclusion: 
+
+
+#### Chart:
+
+
+## [Project 8: R - Predict House Prices in Austin TX](https://github.com/gkdsc2020/dsc520statfords/blob/main/dsc520_final_project.Rmd):
+
+##### Background: 
+House Prices in USA are booming and house prices will continue to race ahead, at nearly twice the pace predicted before this year. Buying house is very critical job, one should aware of lots of things before buying house and when buying house nobody sure about when is the right time to buy house and wants to have some tool that would consider all the factors determining house price and predict the house price. Predicting the house price is challenging but doable and with help of machine learning algorithms this can be achieved. 
+
+
+#### Problem Statement:
+
+To predict the house prices from given house features and area features, the main business problems are:
+
+- Identify the features that impact house Price.
+- Predict the house prices based on identified features.
+
+
+##### Modeling: 
+
+
+##### Conclusion: 
+
+Overall, by performing the exploratory data analysis and regression analysis, we were able to handle the problem statement mentioned above. With the help of exploratory data analysis the first problem statement was resolved to identify the features that are impacting the overall house prices. Regression analysis helped to tackle second question wherein we need to predict the house price based on given features of house and property area. The Multiple Linear Regression model built to tackle second question on predicting house price and based on the result summary the model we built is statistically significant and predict house price.
+After all, the above performed analysis on house price prediction helped to solve both of the business problems.
+
+#### House Price Distribution:
+
+![image](https://user-images.githubusercontent.com/70597635/183263841-34a68ff2-7f5c-4baa-bfb3-48e244c553de.png)
+
+
+
+
+## [Project 9: Weather App](https://github.com/gkdsc2020/dsc510-intro-python/blob/main/week12_final_project.py):
+
+##### Background: 
+
+
+
+## [Project 10: eCommerce Future-Google Trend-Research](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
+
+##### Background: 
+
+
+#### Problem Statement:
+
+
+##### Modeling: 
+
+
+##### Conclusion: 
+
+
+#### Chart:
