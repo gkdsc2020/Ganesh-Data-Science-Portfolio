@@ -16,34 +16,37 @@ email: ganeshbkale@gmail.com
 
 ## [Project 1: News Categorization](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
 
-##### Background: 
+<details>
+ <summary>Click to see more!</summary>
 
-For long time, this process of categorization news was done manually by people and used to allot news to respective section(category). With digitalization of news paper, the news gets updated every moment and allocating to them to appropriate category can be cumbersome task.
+ ##### Background: 
 
-**How this problem was solved**: To avoid manual news categorization, with help of latest technology, Natural Language Processing and Machine Leanring, this problem is tackled to classify and predict which category a piece of news will fall into based on the news headline and short description.
+ For long time, this process of categorization news was done manually by people and used to allot news to respective section(category). With digitalization of news paper, the news gets updated every moment and allocating to them to appropriate category can be cumbersome task.
 
-**How this model would help news editors and customers?**
+ **How this problem was solved**: To avoid manual news categorization, with help of latest technology, Natural Language Processing and Machine Leanring, this problem is tackled to classify and predict which category a piece of news will fall into based on the news headline and short description.
 
-A machine learning model is built using supervised machine learning techniques, that learns from existing news headlines and short description and predict the news category appropriately. With the help of this model the news categorization can be automated and it would save manual work and help users to read the news of their interest in right section.
+ **How this model would help news editors and customers?**
 
-##### Modeling: 
+ A machine learning model is built using supervised machine learning techniques, that learns from existing news headlines and short description and predict the news category appropriately. With the help of this model the news categorization can be automated and it would save manual work and help users to read the news of their interest in right section.
 
-Following machine learning classification algorithms were used to train and evaluate model.
+ ##### Modeling: 
 
-- Naïve Bayes Classifier 
-- Linear Support Vector Machine
-- Logistic Regression
-- XGBoost Classifier
+ Following machine learning classification algorithms were used to train and evaluate model.
 
-##### Conclusion: 
+ - Naïve Bayes Classifier 
+ - Linear Support Vector Machine
+ - Logistic Regression
+ - XGBoost Classifier
 
-XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework.
-This model provided highes accuracy score among all of the three and is finalized as baseline model for this project.
+ ##### Conclusion: 
 
-#### News Categorization Distribution:
+ XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework.
+ This model provided highes accuracy score among all of the three and is finalized as baseline model for this project.
 
-![image](https://user-images.githubusercontent.com/70597635/180676600-2740d5f9-e934-446b-82f8-4f2bbc8fe9ef.png)
+ #### News Categorization Distribution:
 
+ ![image](https://user-images.githubusercontent.com/70597635/180676600-2740d5f9-e934-446b-82f8-4f2bbc8fe9ef.png)
+</details>
 
 
 ## [Project 2: Walmart Sales Forecasting](https://github.com/gkdsc2020/dsc630_predictive_analytics/blob/main/dsc630_final_project.ipynb):
@@ -84,7 +87,6 @@ Comparing the accuracy of different models, it turns out that XGBoost regressor 
 #### Feature Correlations:
 
 ![image](https://user-images.githubusercontent.com/70597635/182530545-e78b614a-074e-40f7-845f-958f03c5d254.png)
-
 
 
 
