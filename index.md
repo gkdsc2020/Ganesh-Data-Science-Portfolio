@@ -238,9 +238,9 @@ To make data ready by collecting from different sources and cleaning, transformi
 
 As part of this project, Austin, Texas housing market data is collected from 3 difference sources such as csv file with house related information, json file for hospital in neighborhood and tabular data for school information from website.
 
-- CSV File: Austin TX area house information, such as address, year built, sale price, No. of bedroom, bathrooms, lot area etc.
-- Tabular Data: The neighborhood school information will be pulled from below websites, since the website has school information such as address, type     of school, student per teacher ratio, ratings and percentile, staar awards ratings etc. but we dont need grade level rating so we are going to remove   them and clean data and at last will be joined with main data set based in zipcode value.
-- Json File: The neighborhood public health locations information is pulled from data.gov using API. The data is in json format, and it will have public   health locations information such as facility name, address, hours of operation, website etc. 
+- **CSV File**: Austin TX area house information, such as address, year built, sale price, No. of bedroom, bathrooms, lot area etc.
+- **Tabular Data**: The neighborhood school information will be pulled from below websites, since the website has school information such as address,     type of school, student per teacher ratio, ratings and percentile, staar awards ratings etc. but we dont need grade level rating so we are going to     remove them and clean data and at last will be joined with main data set based in zipcode value.
+- **Json File**: The neighborhood public health locations information is pulled from data.gov using API. The data is in json format, and it will have     public health locations information such as facility name, address, hours of operation, website etc. 
 
 
 ##### Conclusion: 
@@ -253,21 +253,41 @@ As part of this project, I have implemented all the data prep and EDA techniques
 ![image](https://user-images.githubusercontent.com/70597635/183263251-d625eeef-3701-495c-b70f-898b66d31ce8.png)
 
 
-## [Project 7: Data Viz](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
+## [Project 7: Data Viz]():
 
 ##### Background: 
 
+Airline travel is most preferred one but with recent accidents, Media made hype about it and started bad publicity and tried prove that air travel is not safest way of travel. As airline compay employee, stakeholders and Leadership goup asked to perform analysis on this area and provide different kind of visualization to prove or disprove this statement made by media.
 
 #### Problem Statement:
 
+As media raised concern over air travel safety, as employee of airline company need to solve this problem thru visualization - 
 
-##### Modeling: 
+- Is air travel safe?
+- Are there any impact on airline profits due to bad publicity?
 
+#### Tableau Dashboard:
 
-##### Conclusion: 
+The visualization dashboard was built for internal communication purpose to provide the facts about the airline travel is safe and there is no adverse impact because of negative publicity made by media that it is dangerous to travel.
+This dashboard considers the historical data of worldwide airlines and fatal incidents, fatalities happened specific to airlines and in the year, also captured financial data to show that there is not impact on overall profit and public demand to airline travel.
 
+![image](https://user-images.githubusercontent.com/70597635/183280181-658cd846-7a05-4b60-9d9d-2b4a98723a3e.png)
 
-#### Chart:
+##### [Blog Post](link):
+
+The blog post is written with the help of data and charts those were presented in Dashboard. Since blog is for external audience in short for public so I made sure it gives some background about the research performed and what is the result of research and how we resolve the conflict of bad publicity by sharing the realistic data and figures.
+
+##### [Infographics](https://github.com/gkdsc2020/dsc640_presentation_viz/blob/main/week9_10_Air%20Travel%20Safety%20Infographics.pdf):
+
+Infographics are used to convey complicated data in a simple visual format. They are also visual tools to tell stories. Visual information graphics help people understand information quickly and more accurately. Since this topic was to convey message to public that airline is still safest way of travel, the infographics would provide them what them need to know from it.
+
+ 
+##### Conclusion:
+
+Based on the analysis, we were able to clarify two things are:
+
+- Airline travel is still safest way of travel.
+- There is no impact on net profit and public demand of air travel is increasing and will improve sales.
 
 
 ## [Project 8: R - Predict House Prices in Austin TX](https://github.com/gkdsc2020/dsc520statfords/blob/main/dsc520_final_project.Rmd):
@@ -286,6 +306,10 @@ To predict the house prices from given house features and area features, the mai
 
 ##### Modeling: 
 
+R provides comprehensive support for multiple linear regression, Multiple regression is an extension of linear regression into relationship between more than two variables. In simple linear relation we have one predictor and one response variable, but in multiple regression we have more than one predictor variable and one response variable.
+
+**lm()** function creates the relationship model between the predictor and the response variable.
+
 
 ##### Conclusion: 
 
@@ -302,6 +326,10 @@ After all, the above performed analysis on house price prediction helped to solv
 ## [Project 9: Weather App](https://github.com/gkdsc2020/dsc510-intro-python/blob/main/week12_final_project.py):
 
 ##### Background: 
+
+As part python programming, in this project weather app is developed using python language. This app to demonstrate the python language skill and how to use python features to read API, handle run time exceptions and make app user friendly.
+
+This app gets user input as zip code or city name and brings the weather information by calling weather API and shares the requested weather information to user in appropriate format that user can understand it easily.
 
 
 
