@@ -1,3 +1,13 @@
+# Table of Contents:
+
+* Project 1: News Categorization
+* Project 1: News Categorization
+* Project 1: News Categorization
+* Project 1: News Categorization
+* Project 1: News Categorization
+{:toc}
+
+
 # Ganesh Kale
 ### Python | Data Science | ML | NLP | Deep Learning
 
@@ -13,15 +23,6 @@ I have completed my masters in mathematics from Pune University India and master
 **email**: ganeshbkale@gmail.com
 
 # Professional Summary:
-
-* Project 1: News Categorization
-* Project 1: News Categorization
-* Project 1: News Categorization
-* Project 1: News Categorization
-* Project 1: News Categorization
-{:toc}
-
-
 
 ## [Project 1: News Categorization](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
  
@@ -54,7 +55,7 @@ This model provided highes accuracy score among all of the three and is finalize
  
 
 
-#### News Categorization Distribution:
+#### Chart: News Categorization Distribution:
 
 ![image](https://user-images.githubusercontent.com/70597635/180676600-2740d5f9-e934-446b-82f8-4f2bbc8fe9ef.png)
 
@@ -96,7 +97,7 @@ These ML algorithms are used to train the model and evaluated using Weighted mea
 
 Comparing the accuracy of different models, it turns out that XGBoost regressor with accuracy score 97.7% and Root Mean Squared Error 3463 is the best model for this project and is baselined. The model can be deployed to production system and simple application can be built to predict sales. The Application would accept values such store number, department number, week of the year, size of the store, is holiday in the week, average temperature, unemployment rate in that week, fuel price etc. and based on these values it would predict the sales value for that store and departments.
 
-#### Feature Correlations:
+#### Chart: Feature Correlations:
 
 ![image](https://user-images.githubusercontent.com/70597635/182530545-e78b614a-074e-40f7-845f-958f03c5d254.png)
 
@@ -180,7 +181,7 @@ After building and evaluating multiple classification models, we can see that th
 
 Based on this we can recommend XGBoost Classifier model as final model for our project to predict the transactions categories.
 
-#### Transaction Category Distribution:
+#### Chart: Transaction Category Distribution:
 
 ![image](https://user-images.githubusercontent.com/70597635/183001165-15214d9e-800b-4126-bb38-2f032cc41316.png)
 
@@ -232,7 +233,7 @@ This exploratory analysis helped understand the different features, their relati
 Overall, with this analysis we were able to solve the business problem that was stated to identify features impacting customer to leave or stay and predicting churn.
 
 
-#### CDFs of attrited customer Vs not attrited customers for Total Trans Counts:
+#### Chart: CDFs of attrited customer Vs not attrited customers for Total Trans Counts:
 ![image](https://user-images.githubusercontent.com/70597635/183262722-baa55f61-f130-4aae-a5db-88d4d341e5b5.png)
 
 
@@ -257,7 +258,7 @@ As part of this project, Austin, Texas housing market data is collected from 3 d
 As part of this project, I have implemented all the data prep and EDA techniques to make final dataset in ready format so that it will be passed to ML algorithms to make house price prediction model. There are few features kept in the data set such as urls, owner names, address for information purpose and can be ignored before feeding to ML algorithms.
 
 
-#### Mulit-colinearity of Features:
+#### Chart: Mulit-colinearity of Features:
 
 ![image](https://user-images.githubusercontent.com/70597635/183263251-d625eeef-3701-495c-b70f-898b66d31ce8.png)
 
@@ -325,7 +326,7 @@ R provides comprehensive support for multiple linear regression, Multiple regres
 Overall, by performing the exploratory data analysis and regression analysis, we were able to handle the problem statement mentioned above. With the help of exploratory data analysis the first problem statement was resolved to identify the features that are impacting the overall house prices. Regression analysis helped to tackle second question wherein we need to predict the house price based on given features of house and property area. The Multiple Linear Regression model built to tackle second question on predicting house price and based on the result summary the model we built is statistically significant and predict house price.
 After all, the above performed analysis on house price prediction helped to solve both of the business problems.
 
-#### House Price Distribution:
+#### Chart: House Price Distribution:
 
 ![image](https://user-images.githubusercontent.com/70597635/183263841-34a68ff2-7f5c-4baa-bfb3-48e244c553de.png)
 
@@ -363,7 +364,7 @@ The goal of this project is to implement the Data Science methodologies to find 
 Ecommerce is an ever-expanding world. With intensifying purchasing power of global consumers, the proliferation of social media users, and the continuously progressing infrastructure and technology, the future of e-Commerce in 2020 and beyond is still more vibrant as ever.
 We can conclude this analysis by saying the future of e-Commerce is bright and shine and it will continue to grow fast with this market trend in the future.
 
-#### Google Trend – Google pay vs Apple pay:
+#### Chart: Google Trend – Google pay vs Apple pay:
 
 ![image](https://user-images.githubusercontent.com/70597635/183814789-5099c4d0-551e-4073-a61d-39c24177edff.png)
 
