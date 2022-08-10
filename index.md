@@ -1,12 +1,3 @@
-## Table of Contents:
-
- * Project 1: News Categorization
- * Project 2: Walmart Sales Forecasting
- * Project 3: Next Word Prediction-Language Model
-
-{:toc}
-
-
 # Ganesh Kale
 ### Python | Data Science | ML | NLP | Deep Learning
 
@@ -26,7 +17,6 @@ email: ganeshbkale@gmail.com
  * Project 1: News Categorization
  * Project 2: Walmart Sales Forecasting
  * Project 3: Next Word Prediction-Language Model
-
 {:toc}
 
 
