@@ -1,10 +1,11 @@
 # Table of Contents - 
 
- * Project 1: News Categorization
- * Project 2: Walmart Sales Forecasting
- * Project 3: Next Word Prediction-Language Model
- 
+* Project 1
+* Project 2
+* Project 3
+
 {:toc}
+
 
 
 # Ganesh Kale
