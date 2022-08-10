@@ -14,12 +14,12 @@ email: ganeshbkale@gmail.com
 
 # Professional Summary:
 
- * Project 1: News Categorization
- * Project 2: Walmart Sales Forecasting
- * Project 3: Next Word Prediction-Language Model
- 
+* Project 1: News Categorization
+* Project 2: Walmart Sales Forecasting
+* Project 3: Next Word Prediction-Language Model
 
 {:toc}
+
 
 
 
