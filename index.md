@@ -14,6 +14,14 @@ email: ganeshbkale@gmail.com
 
 # Professional Summary:
 
+* Project 1: News Categorization
+* Project 1: News Categorization
+* Project 1: News Categorization
+* Project 1: News Categorization
+* Project 1: News Categorization
+
+{:toc}
+
 ## [Project 1: News Categorization](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
  
 ##### Background: 
