@@ -14,6 +14,15 @@ email: ganeshbkale@gmail.com
 
 # Professional Summary:
 
+ * Project 1: News Categorization
+ * Project 2: Walmart Sales Forecasting
+ * Project 3: Next Word Prediction-Language Model
+{:toc}
+
+
+
+
+
 ## [Project 1: News Categorization](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
  
 ##### Background: 
@@ -253,7 +262,7 @@ As part of this project, I have implemented all the data prep and EDA techniques
 ![image](https://user-images.githubusercontent.com/70597635/183263251-d625eeef-3701-495c-b70f-898b66d31ce8.png)
 
 
-## [Project 7: Data Viz]():
+## [Project 7: Data Visualization]():
 
 ##### Background: 
 
@@ -323,7 +332,7 @@ After all, the above performed analysis on house price prediction helped to solv
 
 
 
-## [Project 9: Weather App](https://github.com/gkdsc2020/dsc510-intro-python/blob/main/week12_final_project.py):
+## [Project 9: Weather App - Python](https://github.com/gkdsc2020/dsc510-intro-python/blob/main/week12_final_project.py):
 
 ##### Background: 
 
@@ -346,7 +355,7 @@ To understand the Data points to prove theory that e-commerce business will grow
 
 The goal of this project is to implement the Data Science methodologies to find the answer for the problem statement -
 
-What is the future of e-commerce and will it continue to grow in future?
+**What is the future of e-commerce and will it continue to grow in future?**
 
 
 ##### Conclusion: 
@@ -356,5 +365,6 @@ We can conclude this analysis by saying the future of e-Commerce is bright and s
 
 #### Google Trend – Google pay vs Apple pay:
 
-![image](https://user-images.githubusercontent.com/70597635/183814248-2401f494-91e1-4ccd-abe0-f89422d8be87.png)
+![image](https://user-images.githubusercontent.com/70597635/183814789-5099c4d0-551e-4073-a61d-39c24177edff.png)
+
 
