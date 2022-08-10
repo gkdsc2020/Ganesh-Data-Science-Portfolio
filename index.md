@@ -10,7 +10,7 @@ I have completed my masters in mathematics from Pune University India and master
 
 # Contact:
 
-email: ganeshbkale@gmail.com
+**email**: ganeshbkale@gmail.com
 
 # Professional Summary:
 
@@ -19,8 +19,9 @@ email: ganeshbkale@gmail.com
 * Project 1: News Categorization
 * Project 1: News Categorization
 * Project 1: News Categorization
-
 {:toc}
+
+
 
 ## [Project 1: News Categorization](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
  
