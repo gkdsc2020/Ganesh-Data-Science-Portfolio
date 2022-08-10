@@ -21,6 +21,9 @@ email: ganeshbkale@gmail.com
 {:toc}
 
 
+
+
+
 ## [Project 1: News Categorization](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
  
 ##### Background: 
@@ -364,5 +367,4 @@ We can conclude this analysis by saying the future of e-Commerce is bright and s
 #### Google Trend – Google pay vs Apple pay:
 
 ![image](https://user-images.githubusercontent.com/70597635/183814789-5099c4d0-551e-4073-a61d-39c24177edff.png)
-
 
