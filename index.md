@@ -333,18 +333,28 @@ This app gets user input as zip code or city name and brings the weather informa
 
 
 
-## [Project 10: eCommerce Future-Google Trend-Research](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
+## [Project 10: eCommerce Future-Google Trend-Research](https://github.com/gkdsc2020/dsc500-intro-ds/blob/main/DSC_500_Project.pdf):
 
 ##### Background: 
+
+E-Commerce or electronic commerce is the buying and selling of goods or services on the internet. The term covers a huge range of business processes, from payment processing to shipping and data management. From mobile shopping to online payment encryption and beyond, e-commerce encompasses a wide variety of data, systems, and tools for both online buyers and sellers. There are several e-Commerce models but we are going to focus on Business-to-Consumer (B2C) model.
+
+To understand the Data points to prove theory that e-commerce business will grow in future we have used Google Trend analysis data and few online articles supporting the same, this how we have gathered data for analyzing this problem.
 
 
 #### Problem Statement:
 
+The goal of this project is to implement the Data Science methodologies to find the answer for the problem statement -
 
-##### Modeling: 
+What is the future of e-commerce and will it continue to grow in future?
 
 
 ##### Conclusion: 
 
+Ecommerce is an ever-expanding world. With intensifying purchasing power of global consumers, the proliferation of social media users, and the continuously progressing infrastructure and technology, the future of e-Commerce in 2020 and beyond is still more vibrant as ever.
+We can conclude this analysis by saying the future of e-Commerce is bright and shine and it will continue to grow fast with this market trend in the future.
 
-#### Chart:
+#### Google Trend – Google pay vs Apple pay:
+
+![image](https://user-images.githubusercontent.com/70597635/183814248-2401f494-91e1-4ccd-abe0-f89422d8be87.png)
+
