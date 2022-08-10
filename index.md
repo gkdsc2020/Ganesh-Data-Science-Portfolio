@@ -1,3 +1,11 @@
+
+ * Project 1: News Categorization
+ * Project 2: Walmart Sales Forecasting
+ * Project 3: Next Word Prediction-Language Model
+ 
+{:toc}
+
+
 # Ganesh Kale
 ### Python | Data Science | ML | NLP | Deep Learning
 
@@ -13,16 +21,6 @@ I have completed my masters in mathematics from Pune University India and master
 email: ganeshbkale@gmail.com
 
 # Professional Summary:
-
- * Project 1: News Categorization
- * Project 2: Walmart Sales Forecasting
- * Project 3: Next Word Prediction-Language Model
- 
-{:toc}
-
-
-
-
 
 ## [Project 1: News Categorization](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
  
