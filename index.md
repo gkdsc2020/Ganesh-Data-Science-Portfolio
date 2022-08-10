@@ -17,7 +17,8 @@ email: ganeshbkale@gmail.com
  * Project 1: News Categorization
  * Project 2: Walmart Sales Forecasting
  * Project 3: Next Word Prediction-Language Model
-{:toc}
+ 
+ {:toc}
 
 
 ## [Project 1: News Categorization](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb):
