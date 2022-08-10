@@ -1,14 +1,4 @@
-# Table of Contents:
-
-* Project 1: News Categorization
-* Project 1: News Categorization
-* Project 1: News Categorization
-* Project 1: News Categorization
-* Project 1: News Categorization
-{:toc}
-
-
-# Ganesh Kale
+# **Ganesh Kale**
 ### Python | Data Science | ML | NLP | Deep Learning
 
 I am senior data scientist with over 14+ years of experience using predictive modeling, data processing 
@@ -18,9 +8,21 @@ I have experience in managing high-performing teams in fast-paced organizations.
  
 I have completed my masters in mathematics from Pune University India and masters in data science from Bellevue university NE USA. 
 
+
+
+# Table of Contents:
+
+* Project 1: News Categorization
+* Project 1: News Categorization
+* Project 1: News Categorization
+* Project 1: News Categorization
+* Project 1: News Categorization
+{:toc}
+
 # Contact:
 
 **email**: ganeshbkale@gmail.com
+
 
 # Professional Summary:
 
