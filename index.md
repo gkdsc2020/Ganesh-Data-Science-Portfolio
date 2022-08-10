@@ -1,3 +1,4 @@
+# Table of Contents - 
 
  * Project 1: News Categorization
  * Project 2: Walmart Sales Forecasting
