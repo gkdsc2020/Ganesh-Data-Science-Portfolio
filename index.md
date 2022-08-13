@@ -197,7 +197,7 @@ Based on this we can recommend XGBoost Classifier model as final model for our p
 
 
 ## Credit Card Customers - Predict Churning -
-[![]([![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)])](https://github.com/gkdsc2020/dsc530edapython/blob/main/dsc530_term_project.ipynb)
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc530edapython/blob/main/dsc530_term_project.ipynb)
 
 ##### Background: 
 
