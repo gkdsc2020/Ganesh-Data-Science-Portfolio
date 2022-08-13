@@ -8,7 +8,7 @@ I have experience in managing high-performing teams in fast-paced organizations.
  
 I have completed my masters in mathematics from Pune University India and masters in data science from Bellevue university NE USA. 
 
-
+<!-- 
 
 # Table of Contents:
 
@@ -17,7 +17,7 @@ I have completed my masters in mathematics from Pune University India and master
 * Project 1: News Categorization
 * Project 1: News Categorization
 * Project 1: News Categorization
-{:toc}
+{:toc} -->
 
 # Contact:
 
