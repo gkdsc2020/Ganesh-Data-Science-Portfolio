@@ -30,7 +30,7 @@ These Projects are completed as part of Masters in Data Science Course.
 
 
 ## News Categorization -
-[![click here](https://img.shields.io/badge/GitHub-View%20Code-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb)
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb)
 
  
 ##### Background: 
@@ -68,7 +68,8 @@ This model provided highes accuracy score among all of the three and is finalize
 
 
 
-## [Walmart Sales Forecasting](https://github.com/gkdsc2020/dsc630_predictive_analytics/blob/main/dsc630_final_project.ipynb):
+## Walmart Sales Forecasting -
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc630_predictive_analytics/blob/main/dsc630_final_project.ipynb)
 
 ##### Background: 
 
@@ -110,7 +111,8 @@ Comparing the accuracy of different models, it turns out that XGBoost regressor 
 
 
 
-## [Next Word Prediction-Language Model](https://github.com/gkdsc2020/dsc680-applied-ds/blob/main/dsc680_project1_GaneshKale.pdf):
+## Next Word Prediction-Language Model -
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc680-applied-ds/blob/main/dsc680_project1_GaneshKale.pdf)
 
 ##### Background: 
 
@@ -139,7 +141,8 @@ The next word prediction language model is generating the relevant word and can 
 
 
 
-## [Transaction Categorization](https://github.com/gkdsc2020/dsc680-applied-ds/blob/main/project2_transaction_categorization_GaneshKale.ipynb):
+## Transaction Categorization -
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc680-applied-ds/blob/main/project2_transaction_categorization_GaneshKale.ipynb)
 
 ##### Background: 
 
@@ -193,7 +196,8 @@ Based on this we can recommend XGBoost Classifier model as final model for our p
 ![image](https://user-images.githubusercontent.com/70597635/183001165-15214d9e-800b-4126-bb38-2f032cc41316.png)
 
 
-## [Credit Card Customers - Predict Churning](https://github.com/gkdsc2020/dsc530edapython/blob/main/dsc530_term_project.ipynb):
+## Credit Card Customers - Predict Churning -
+[![]([![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)])](https://github.com/gkdsc2020/dsc530edapython/blob/main/dsc530_term_project.ipynb)
 
 ##### Background: 
 
@@ -244,7 +248,8 @@ Overall, with this analysis we were able to solve the business problem that was 
 ![image](https://user-images.githubusercontent.com/70597635/183262722-baa55f61-f130-4aae-a5db-88d4d341e5b5.png)
 
 
-## [Data Prep and EDA for Housing Price Prediction](https://github.com/gkdsc2020/dsc540_data_preperation/blob/main/Final_Project.ipynb):
+## Data Prep and EDA for Housing Price Prediction -
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc540_data_preperation/blob/main/Final_Project.ipynb)
 
 ##### Background: 
 
@@ -270,7 +275,7 @@ As part of this project, I have implemented all the data prep and EDA techniques
 ![image](https://user-images.githubusercontent.com/70597635/183263251-d625eeef-3701-495c-b70f-898b66d31ce8.png)
 
 
-## [Data Visualization]():
+## Data Visualization -
 
 ##### Background: 
 
@@ -290,11 +295,13 @@ This dashboard considers the historical data of worldwide airlines and fatal inc
 
 ![image](https://user-images.githubusercontent.com/70597635/183280181-658cd846-7a05-4b60-9d9d-2b4a98723a3e.png)
 
-##### [Blog Post](link):
+##### Blog Post -
+[![](https://img.shields.io/badge/Blogger-View%20on%20BlogSite-orange?logo=Blogger)](https://gk2111.blogspot.com)
 
 The blog post is written with the help of data and charts those were presented in Dashboard. Since blog is for external audience in short for public so I made sure it gives some background about the research performed and what is the result of research and how we resolve the conflict of bad publicity by sharing the realistic data and figures.
 
-##### [Infographics](https://github.com/gkdsc2020/dsc640_presentation_viz/blob/main/week9_10_Air%20Travel%20Safety%20Infographics.pdf):
+##### Infographics
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc640_presentation_viz/blob/main/week9_10_Air%20Travel%20Safety%20Infographics.pdf):
 
 Infographics are used to convey complicated data in a simple visual format. They are also visual tools to tell stories. Visual information graphics help people understand information quickly and more accurately. Since this topic was to convey message to public that airline is still safest way of travel, the infographics would provide them what them need to know from it.
 
@@ -307,7 +314,8 @@ Based on the analysis, we were able to clarify two things are:
 - There is no impact on net profit and public demand of air travel is increasing and will improve sales.
 
 
-## [R - Predict House Prices in Austin TX](https://github.com/gkdsc2020/dsc520statfords/blob/main/dsc520_final_project.Rmd):
+## R - Predict House Prices in Austin TX -
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc520statfords/blob/main/dsc520_final_project.Rmd)
 
 ##### Background: 
 House Prices in USA are booming and house prices will continue to race ahead, at nearly twice the pace predicted before this year. Buying house is very critical job, one should aware of lots of things before buying house and when buying house nobody sure about when is the right time to buy house and wants to have some tool that would consider all the factors determining house price and predict the house price. Predicting the house price is challenging but doable and with help of machine learning algorithms this can be achieved. 
@@ -340,7 +348,8 @@ After all, the above performed analysis on house price prediction helped to solv
 
 
 
-## [Weather App - Python](https://github.com/gkdsc2020/dsc510-intro-python/blob/main/week12_final_project.py):
+## Weather App - Python -
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc510-intro-python/blob/main/week12_final_project.py)
 
 ##### Background: 
 
@@ -350,7 +359,8 @@ This app gets user input as zip code or city name and brings the weather informa
 
 
 
-## [eCommerce Future-Google Trend-Research](https://github.com/gkdsc2020/dsc500-intro-ds/blob/main/DSC_500_Project.pdf):
+## eCommerce Future-Google Trend-Research -
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc500-intro-ds/blob/main/DSC_500_Project.pdf)
 
 ##### Background: 
 
