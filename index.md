@@ -30,7 +30,7 @@ These Projects are completed as part of Masters in Data Science Course.
 
 
 ## News Categorization -
-[([link-to-our-badge](https://img.shields.io/badge/GitHub-View%20Code-blue?logo=GitHub))](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb)
+[![click here](https://img.shields.io/badge/GitHub-View%20Code-blue?logo=GitHub)](https://github.com/gkdsc2020/dsc550_data_mining/blob/main/week10_final_project_GaneshKale.ipynb)
 
  
 ##### Background: 
